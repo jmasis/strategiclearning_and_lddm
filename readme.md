@@ -155,8 +155,8 @@ Figure 6 - figure supplement 5: Post-error slowing during rat learning dynamics
 - c,d – **`regular_v_new_visible_stim_experiment.ipynb`**
 
 
-## Dependencies etc
+## Dependencies, environments etc
 
-Behavioral data analysis code was written in Python 2.7 with standard libraries. PsyTrack was run in Python 3.8.
+Behavioral data analysis code was written in Python 2.7 with standard libraries (try the `py2.yml` environment file). PsyTrack was run in Python 3.8 (try the `py38.yml` environment file).
 
 Loading data files and figure filenames may require editing to avoid "no such directory" errors. 
