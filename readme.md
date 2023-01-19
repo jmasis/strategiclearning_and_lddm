@@ -157,6 +157,6 @@ Figure 6 - figure supplement 5: Post-error slowing during rat learning dynamics
 
 ## Dependencies etc
 
-Behavioral data analysis code was written in python 2.7 with standard libraries.
+Behavioral data analysis code was written in Python 2.7 with standard libraries. PsyTrack was run in Python 3.8.
 
 Loading data files and figure filenames may require editing to avoid "no such directory" errors. 
